@@ -1,6 +1,6 @@
 ---
-title: {my api}
-sdk: {docker}
-app_file: main.py
+title: "my api"
+sdk: "docker"
+app_file: "main.py"
 pinned: false
 ---
