@@ -12,7 +12,7 @@ except FileNotFoundError:
     st.stop()
 
 # Título y subtítulo
-st.title("🍷 AI Factory: Predictor de Vinos")
+st.title("🍷 AI Factory: Predictor de Vinos con cambio")
 st.markdown("Esta app (usando el dataset de Vinos) demuestra que el 'AI Factory' puede desplegar CUALQUIER modelo.")
 
 # --- UI de Entrada (Sliders) ---
